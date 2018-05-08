@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.deps.json
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.runtimeconfig.json
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.dll
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.pdb
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.AssemblyInfo.cs
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.dll
+C:\Users\Owner\Desktop\visual studio source\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.pdb
